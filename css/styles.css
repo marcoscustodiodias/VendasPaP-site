@@ -1,0 +1,9 @@
+nav {
+  background-color: coral;
+  opacity: 0.5;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
